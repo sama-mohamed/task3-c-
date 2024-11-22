@@ -1,0 +1,15 @@
+F:\web\tasks_eraasoft\task3-c#\task3-c#\bin\Debug\net8.0\task3-c#.exe
+F:\web\tasks_eraasoft\task3-c#\task3-c#\bin\Debug\net8.0\task3-c#.deps.json
+F:\web\tasks_eraasoft\task3-c#\task3-c#\bin\Debug\net8.0\task3-c#.runtimeconfig.json
+F:\web\tasks_eraasoft\task3-c#\task3-c#\bin\Debug\net8.0\task3-c#.dll
+F:\web\tasks_eraasoft\task3-c#\task3-c#\bin\Debug\net8.0\task3-c#.pdb
+F:\web\tasks_eraasoft\task3-c#\task3-c#\obj\Debug\net8.0\task3-c#.GeneratedMSBuildEditorConfig.editorconfig
+F:\web\tasks_eraasoft\task3-c#\task3-c#\obj\Debug\net8.0\task3-c#.AssemblyInfoInputs.cache
+F:\web\tasks_eraasoft\task3-c#\task3-c#\obj\Debug\net8.0\task3-c#.AssemblyInfo.cs
+F:\web\tasks_eraasoft\task3-c#\task3-c#\obj\Debug\net8.0\task3-c#.csproj.CoreCompileInputs.cache
+F:\web\tasks_eraasoft\task3-c#\task3-c#\obj\Debug\net8.0\task3-c#.sourcelink.json
+F:\web\tasks_eraasoft\task3-c#\task3-c#\obj\Debug\net8.0\task3-c#.dll
+F:\web\tasks_eraasoft\task3-c#\task3-c#\obj\Debug\net8.0\refint\task3-c#.dll
+F:\web\tasks_eraasoft\task3-c#\task3-c#\obj\Debug\net8.0\task3-c#.pdb
+F:\web\tasks_eraasoft\task3-c#\task3-c#\obj\Debug\net8.0\task3-c#.genruntimeconfig.cache
+F:\web\tasks_eraasoft\task3-c#\task3-c#\obj\Debug\net8.0\ref\task3-c#.dll
